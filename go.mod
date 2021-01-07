@@ -1,3 +1,3 @@
-module gitlab-cb.idc-oob.site/GoCommon/Template
+module gitlab-cb.idc-oob.site/CCP/Core
 
-go 1.14
+go 1.15
